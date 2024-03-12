@@ -50,3 +50,9 @@ Open the Jupyter Notebook in the starter code folder named ***part_2_mars_weathe
           - Visually estimate the result by plotting the daily minimum temperature.
 
 7. Export the DataFrame to a CSV file.
+
+## References
+
+DataCamp, Inc (2024). Web Scraping using Python (and Beautiful Soup). Retrieved from https://www.datacamp.com/tutorial/web-scraping-using-python
+
+GeekforGeeks (n.d.). Change data type for one or more columns in Pandas Dataframe. Retrieved from https://www.geeksforgeeks.org/change-data-type-for-one-or-more-columns-in-pandas-dataframe/
